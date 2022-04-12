@@ -1,13 +1,13 @@
 package geun.servlet.domain;
 
-import org.assertj.core.api.Assertions;
+import geun.servlet.domain.member.Member;
+import geun.servlet.domain.member.MemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 class MemberRepositoryTest {
 

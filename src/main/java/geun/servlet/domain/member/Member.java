@@ -1,4 +1,4 @@
-package geun.servlet.domain;
+package geun.servlet.domain.member;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,6 +1,6 @@
 package geun.servlet.web.servlet;
 
-import geun.servlet.domain.MemberRepository;
+import geun.servlet.domain.member.MemberRepository;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

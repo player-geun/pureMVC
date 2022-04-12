@@ -1,4 +1,4 @@
-package geun.servlet.domain;
+package geun.servlet.domain.member;
 
 import java.util.ArrayList;
 import java.util.HashMap;
